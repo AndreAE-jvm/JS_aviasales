@@ -1,3 +1,5 @@
+// Главный скрипт
+
 // Импорт всех необходимых модулей
 import { CONFIG } from './config.js';
 import { 
